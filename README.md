@@ -19,4 +19,4 @@ tenho 26 anos e estou no segundo semestre da faculdade de Análise e Desenvolvim
 
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a&[langs_count](https://github.com/alissonwolf66/alissonwolf66)=4)
