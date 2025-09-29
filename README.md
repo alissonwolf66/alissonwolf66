@@ -1,7 +1,7 @@
 ## Olá! 
 
 ### Me chamo Alisson Alves 😉
-tenho 26 anos e estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas, onde tenho mergulhado de cabeça no fascinante mundo da programação. Cada desafio me motiva a aprimorar minhas habilidades técnicas e explorar novas possibilidades nesse universo em constante evolução, ansioso para contribuir e fazer a diferença no campo da tecnologia.
+tenho 27 anos e estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas, onde tenho mergulhado de cabeça no fascinante mundo da programação. Cada desafio me motiva a aprimorar minhas habilidades técnicas e explorar novas possibilidades nesse universo em constante evolução, ansioso para contribuir e fazer a diferença no campo da tecnologia.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4lisson.4lves/?igsh=bjN2dHZwejZoZXZ5)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEpHybIaZHjO4GTO3oWAAig)
